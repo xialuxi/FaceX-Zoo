@@ -15,12 +15,12 @@
 * Test images & pairs file & landmarks : http://www.whdeng.cn/RFW/testing.html
 * Code for cropping face: [crop_rfw_by_arcface.py](lfw/face_cropper/crop_rfw_by_arcface.py)  
 ### AgeDB30
-* Test images & pairs file & landmarks:
+* Test images & pairs file & landmarks: https://ibug.doc.ic.ac.uk/resources/agedb/
 * Code for cropping face: [crop_agedb_by_arcface.py](lfw/face_cropper/crop_agedb_by_arcface.py)  
 ### MegaFace
 * Web site: http://megaface.cs.washington.edu/
 * Face bounding box and landmarks of Facescrub: [facescrub_face_info.txt](../data/files/facescrub_face_info.txt)
-* Face bounding box and landmarks of Megaface: megaface_face_info.txt([Google](https://drive.google.com/file/d/1EubsMbKxaRbBCS4i9EgojGvteyhUCKjS/view?usp=sharing),[Baidu]())
+* Face bounding box and landmarks of Megaface: megaface_face_info.txt([Google](https://drive.google.com/file/d/1EubsMbKxaRbBCS4i9EgojGvteyhUCKjS/view?usp=sharing),[Baidu](https://pan.baidu.com/s/1UUYHA02JA4nYxm67t95DoQ):r04t)
 * Code for cropping Facescrub: [crop_facescrub_by_arcface.py](megaface/face_cropper/crop_facescrub_by_arcface.py)  
 * Code for cropping Megaface: [crop_megaface_by_arcface.py](megaface/face_cropper/crop_megaface_by_arcface.py)  
 ### MegaFace-mask
